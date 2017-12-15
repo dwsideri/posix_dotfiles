@@ -1,0 +1,8 @@
+alias ls='ls -lL --color=auto --ignore-backups'
+alias lsl='ls -lL --color=auto --dereference-command-line-symlink-to-dir'
+alias xdvi='xdvi -bg white'
+alias preview='eog'
+#alias vmd='xterm -e vmd \!* &'
+alias reboot='~/apps/bin/reboot.csh'
+alias myjobs='qstat -u dsideriu'
+alias xclip='xclip -i -selection c'
