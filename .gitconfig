@@ -1,0 +1,10 @@
+[user]
+	name = Daniel W. Siderius
+	email = daniel.siderius@nist.gov
+[core]
+	editor = emacs
+	excludesfile = /home/dsideriu/.gitignore_global
+[credential]
+	helper = cache --timeout=3600
+[push]
+	default = matching

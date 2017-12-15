@@ -1,0 +1,39 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Compiled Fortran #
+*.o
+*.mod
+.depend
+*.f90~
+*.py~
+
+# Shell Commands #
+*.sh~
+
+# Latex
+*.tex~
+*.dvi
+*.out
+*Notes.bib
+*.bbl
+*.blg
+*.log
+*.aux
+*-eps-converted-to.pdf
+*.fdb_latexmk
+*.fls
+.refresh
+
+# Jupyter
+*checkpoint.ipynb
+
+
+# All Emacs backups
+*~
